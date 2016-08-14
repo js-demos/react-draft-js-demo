@@ -1,9 +1,10 @@
-React Hello World Demo
-======================
+React Draft-js Demo
+==================
 
-Just say hello from react.
+Use [draft-js](https://facebook.github.io/draft-js) which is rich text editor for react.
 
 ```
+npm install -g webpack-dev-server
 npm install
 npm start
 ```
